@@ -1,0 +1,60 @@
+{
+"Course":[
+        {
+                "name": "#1",
+                "workouts":[
+                        {
+                                "name":"A", 
+                                "exercises":[
+                                                {"name":"Seated Short Pull",    "weight":"20", "reps": "8"},
+                                                {"name":"Dips",                 "weight":"0",  "reps": "8"},
+                                                {"name":"Seated Lateral",       "weight":"10", "reps": "8"},
+                                                {"name":"High Bench Row",       "weight":"10", "reps": "8"},
+                                                {"name":"DB Kickback",          "weight":"10", "reps": "8"},
+                                                {"name":"DB Preacher",          "weight":"10", "reps": "8"},
+                                                {"name":"DB Wrist Curl",        "weight":"10", "reps": "8"},
+                                                {"name":"Reverse Body Drag",    "weight":"20", "reps": "8"}
+                                ]
+                        },
+                        {
+                                "name":"B", 
+                                "exercises":[
+                                                {"name":"Front Squat",          "weight":"60", "reps": "8"},
+                                                {"name":"Seated Toe Raise",     "weight":"22",  "reps": "8"},
+                                                {"name":"Decline Leg Curl",     "weight":"16", "reps": "8"},
+                                                {"name":"Heavy Walk Off",       "weight":"40", "reps": "8"}
+                                ]
+                        }
+                ]
+        },
+
+
+        {
+                "name": "#2",
+                "workouts":[
+                        {
+                                "name":"A", 
+                                "exercises":[
+                                                {"name":"Seated Short Pull",    "weight":"20", "reps": "8"},
+                                                {"name":"Dips",                 "weight":"0",  "reps": "8"},
+                                                {"name":"Seated Lateral",       "weight":"10", "reps": "8"},
+                                                {"name":"High Bench Row",       "weight":"10", "reps": "8"},
+                                                {"name":"DB Kickback",          "weight":"10", "reps": "8"},
+                                                {"name":"DB Preacher",          "weight":"10", "reps": "8"},
+                                                {"name":"DB Wrist Curl",        "weight":"10", "reps": "8"},
+                                                {"name":"Reverse Body Drag",    "weight":"20", "reps": "8"}
+                                ]
+                        },
+                        {
+                                "name":"B", 
+                                "exercises":[
+                                                {"name":"Front Squat",          "weight":"60", "reps": "8"},
+                                                {"name":"Seated Toe Raise",     "weight":"22",  "reps": "8"},
+                                                {"name":"Decline Leg Curl",     "weight":"16", "reps": "8"},
+                                                {"name":"Heavy Walk Off",       "weight":"40", "reps": "8"}
+                                ]
+                        }
+                ]
+        }
+]
+}

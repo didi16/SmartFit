@@ -1,0 +1,23 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title center>
+      <div class="row">
+    <div class="col">
+        <div class="text-center">
+            <h5 style="text-align: center;">My Courses</h5>
+        </div>
+    </div>
+</div>
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+	<ion-list>
+	<ion-item *ngFor="let course of courseItems | async; let i = index">
+		<button (click)="onLoadNewWorkout(i)" ion-button full><h3>Course {{course.name}}
+    </h3></button>		
+	</ion-item>
+	</ion-list>
+
+</ion-content>
